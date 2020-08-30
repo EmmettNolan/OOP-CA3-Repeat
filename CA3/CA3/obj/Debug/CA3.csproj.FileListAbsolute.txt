@@ -1,0 +1,15 @@
+C:\Users\Emmett\Documents\GitHub\OOP-CA3-Repeat\CA3\CA3\bin\Debug\CA3.exe.config
+C:\Users\Emmett\Documents\GitHub\OOP-CA3-Repeat\CA3\CA3\bin\Debug\CA3.exe
+C:\Users\Emmett\Documents\GitHub\OOP-CA3-Repeat\CA3\CA3\bin\Debug\CA3.pdb
+C:\Users\Emmett\Documents\GitHub\OOP-CA3-Repeat\CA3\CA3\obj\Debug\MainWindow.g.cs
+C:\Users\Emmett\Documents\GitHub\OOP-CA3-Repeat\CA3\CA3\obj\Debug\App.g.cs
+C:\Users\Emmett\Documents\GitHub\OOP-CA3-Repeat\CA3\CA3\obj\Debug\CA3_MarkupCompile.cache
+C:\Users\Emmett\Documents\GitHub\OOP-CA3-Repeat\CA3\CA3\obj\Debug\CA3_MarkupCompile.lref
+C:\Users\Emmett\Documents\GitHub\OOP-CA3-Repeat\CA3\CA3\obj\Debug\MainWindow.baml
+C:\Users\Emmett\Documents\GitHub\OOP-CA3-Repeat\CA3\CA3\obj\Debug\CA3.g.resources
+C:\Users\Emmett\Documents\GitHub\OOP-CA3-Repeat\CA3\CA3\obj\Debug\CA3.Properties.Resources.resources
+C:\Users\Emmett\Documents\GitHub\OOP-CA3-Repeat\CA3\CA3\obj\Debug\CA3.csproj.GenerateResource.cache
+C:\Users\Emmett\Documents\GitHub\OOP-CA3-Repeat\CA3\CA3\obj\Debug\CA3.csproj.CoreCompileInputs.cache
+C:\Users\Emmett\Documents\GitHub\OOP-CA3-Repeat\CA3\CA3\obj\Debug\CA3.exe
+C:\Users\Emmett\Documents\GitHub\OOP-CA3-Repeat\CA3\CA3\obj\Debug\CA3.pdb
+C:\Users\Emmett\Documents\GitHub\OOP-CA3-Repeat\CA3\CA3\obj\Debug\CA3.csprojAssemblyReference.cache
